@@ -5,5 +5,5 @@ to run this code
 
 sudo apt install nodejs
 sudo apt install npm
-npm install
+sudo npm install
 node app.js
